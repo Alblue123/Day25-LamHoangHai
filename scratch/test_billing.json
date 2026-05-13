@@ -1,0 +1,1 @@
+{"workload_id": "test", "gpu_type": "T4", "gpu_count": 1, "duration_seconds": 300, "is_spot": false}
